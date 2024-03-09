@@ -1,3 +1,4 @@
+#Based on original code by Anirban Kar: https://github.com/thecodacus/Face-Recognition   
 import cv2
 import numpy as np
 import os 
